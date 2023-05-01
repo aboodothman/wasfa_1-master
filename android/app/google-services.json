@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376160993158",
+    "project_id": "wasfa2023-76eeb",
+    "storage_bucket": "wasfa2023-76eeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376160993158:android:5b0a449c0bce01a82d7607",
+        "android_client_info": {
+          "package_name": "com.example.wasfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376160993158-mbqmtv6pugo6hk0tunj5jovbqne024oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLH0mf9R5gXS3jVm-PTqjuyOJQeoca6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376160993158-mbqmtv6pugo6hk0tunj5jovbqne024oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
